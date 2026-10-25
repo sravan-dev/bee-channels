@@ -391,6 +391,84 @@
   "source": "iptv-org"
  },
  {
+  "id": "flowers-tv-usa",
+  "name": "Flowers TV USA",
+  "category": "Malayalam",
+  "type": "hls",
+  "url": "https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/flowers_nim_https/050522/flowers/playlist.m3u8",
+  "logo": "https://upload.wikimedia.org/wikipedia/ml/1/1c/Flowers-Onam.png",
+  "page": null,
+  "first": 31,
+  "no": 383,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
+  "id": "asianet-middle-east",
+  "name": "Asianet Middle East",
+  "category": "Malayalam",
+  "type": "hls",
+  "url": "https://mumt03.tangotv.in/Dsly5z3HASIANETMIDDLEEAST/index.m3u8",
+  "logo": "https://i.imgur.com/du9iZ0s.png",
+  "page": null,
+  "first": 32,
+  "no": 384,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
+  "id": "kairali-arabia",
+  "name": "Kairali Arabia",
+  "category": "Malayalam",
+  "type": "hls",
+  "url": "https://mumt03.tangotv.in/Dsly5z3HKAIRALIARABIA/index.m3u8",
+  "logo": "https://i.imgur.com/BBEfplL.png",
+  "page": null,
+  "first": 33,
+  "no": 385,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
+  "id": "anand-tv-uk",
+  "name": "Anand TV UK",
+  "category": "Malayalam",
+  "type": "hls",
+  "url": "https://live-anandtv.anandmedia.net/anandtvapp/anandtv/index.m3u8",
+  "logo": "https://i.imgur.com/5VOPFzs.png",
+  "page": null,
+  "first": 34,
+  "no": 386,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
+  "id": "potta-divine-tv-usa",
+  "name": "Potta-Divine TV USA",
+  "category": "Malayalam",
+  "type": "hls",
+  "url": "https://playout7multirtmp.tulix.tv/live21/Stream1/playlist.m3u8",
+  "logo": "https://i.imgur.com/Yx0AnLW.png",
+  "page": null,
+  "first": 35,
+  "no": 387,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
+  "id": "vision-tv",
+  "name": "Vision TV",
+  "category": "Malayalam",
+  "type": "hls",
+  "url": "http://103.85.204.205:1935/VISIONMEDIA/live/playlist.m3u8",
+  "logo": "https://i.imgur.com/YozqNL3.jpg",
+  "page": null,
+  "first": 36,
+  "no": 388,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
   "id": "00s-replay",
   "no": 1,
   "name": "00s Replay",
@@ -2201,6 +2279,32 @@
   "locked": true
  },
  {
+  "id": "discovery-kids",
+  "name": "Discovery Kids",
+  "category": "Kids",
+  "type": "hls",
+  "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_kids_abr/index.m3u8",
+  "logo": "https://i.imgur.com/0iNQvoL.png",
+  "page": null,
+  "first": 39,
+  "no": 391,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
+  "id": "pogo",
+  "name": "Pogo",
+  "category": "Kids",
+  "type": "hls",
+  "url": "http://103.151.60.162:2122/play/a01e/index.m3u8?hls",
+  "logo": "https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_POGO/images/LOGO_HD/image.png",
+  "page": null,
+  "first": 40,
+  "no": 392,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
   "id": "shemaroo-movies",
   "no": 177,
   "name": "Shemaroo Movies",
@@ -2422,6 +2526,32 @@
   "url": "https://b4uplay.com/api/discovery-play.php?id=ch6",
   "page": "https://bhoomtv.org/live/tlc-hd",
   "locked": false
+ },
+ {
+  "id": "discovery-channel",
+  "name": "Discovery Channel",
+  "category": "Documentary",
+  "type": "hls",
+  "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_sd_abr/index.m3u8",
+  "logo": "https://dtil.tmsimg.com/assets/GNLZZGG002E9L1W.png?lock=720x540",
+  "page": null,
+  "first": 37,
+  "no": 389,
+  "locked": false,
+  "source": "iptv-org"
+ },
+ {
+  "id": "discovery-channel-hd",
+  "name": "Discovery Channel HD",
+  "category": "Documentary",
+  "type": "hls",
+  "url": "https://drk6xq0vhn.gpcdn.net/live/discovery_hd_abr/index.m3u8",
+  "logo": "https://dtil.tmsimg.com/assets/s159106_ld_h15_aa.png?lock=720x540",
+  "page": null,
+  "first": 38,
+  "no": 390,
+  "locked": false,
+  "source": "iptv-org"
  },
  {
   "id": "u-sports-hd",
@@ -4209,5 +4339,18 @@
   ],
   "no": 360,
   "locked": false
+ },
+ {
+  "id": "star-sports-select-1-hd",
+  "name": "Star Sports Select 1 HD",
+  "category": "Sports",
+  "type": "hls",
+  "url": "http://103.151.60.162:2122/play/a026/index.m3u8?hls",
+  "logo": "https://i.imgur.com/Mh9tKPx.png",
+  "page": null,
+  "first": 41,
+  "no": 393,
+  "locked": false,
+  "source": "iptv-org"
  }
 ]
