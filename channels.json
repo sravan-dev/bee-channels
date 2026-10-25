@@ -102,6 +102,22 @@
   "locked": false
  },
  {
+  "id": "safari-tv",
+  "name": "Safari TV",
+  "category": "Malayalam",
+  "type": "hls",
+  "url": "https://da86m1sqpm3o0.cloudfront.net/120723/smil:safaritv1.smil/index.m3u8",
+  "fallbacks": [
+   "https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8",
+   "https://cdn.pishow.tv/ott/live/1513/master.m3u8"
+  ],
+  "logo": "https://raw.githubusercontent.com/sravan-dev/bee-channels/main/logos/safari-tv.webp",
+  "page": "https://bhoomtv.org/live/safari-tv/",
+  "first": 9,
+  "no": 361,
+  "locked": false
+ },
+ {
   "id": "00s-replay",
   "no": 1,
   "name": "00s Replay",
