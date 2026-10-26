@@ -11132,10 +11132,13 @@
   "name": "MTV India",
   "category": "Music",
   "type": "hls",
-  "url": "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8",
+  "url": "https://da86m1sqpm3o0.cloudfront.net/28072023/smil:mtvindia.smil/playlist.m3u8",
   "page": "https://bhoomtv.org/live/mtv-india/",
   "no": 316,
-  "locked": true
+  "locked": false,
+  "fallbacks": [
+   "https://yupp-music.keralive.workers.dev/out/v1/a797c00cba954265ba781f92a57e2cf5/index.m3u8"
+  ]
  },
  {
   "id": "bengali-beats",
